@@ -1,3 +1,3 @@
 export class Task{
-  name:strng;
+  name:string;
 }
